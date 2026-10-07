@@ -12,6 +12,16 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "chalk": "^4.1.2"
-  }
+    "chalk": "^4.1.2",
+    "express": "^5.2.1",
+    "Express": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassanvirak/nodejs-practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hassanvirak/nodejs-practice/issues"
+  },
+  "homepage": "https://github.com/hassanvirak/nodejs-practice#readme"
 }
